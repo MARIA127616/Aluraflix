@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: rgba(2, 252, 252, 0.473);
+    background: rgba(7, 27, 212, 0.61);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
@@ -56,5 +56,5 @@ p {
 }
 
 .categoria h2 {
-    color: rgb(255, 238, 0);
+    color: rgba(202, 44, 97, 0.76);
 }
